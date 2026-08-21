@@ -4,7 +4,7 @@ My name is Kaleab Takele. I am an Ethiopian student and aspiring developer who i
 My programming journey started with learning the fundamentals of web development and JavaScript. Since then, I have continued exploring backend development, databases, APIs, Firebase, Git, GitHub and deployment.
 
 I enjoy creating, Helps create a clearer path
-<img width="386" height="47" alt="image" src="https://github.com/user-attachments/assets/d453d6bc-d60e-4b8d-ad1c-13927f42f059" />
+<img width="386" height="47" alt="image" src="https://kaleab-protplio-87.tiiny.site" />
  projects that can solve real problems, especially in education, healthcare and technology.
 
 My goal is to continue learning, participate in technology competitions and build useful solutions that can make a positive impa
